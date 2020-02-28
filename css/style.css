@@ -432,6 +432,14 @@ transform: scale(1.2);
 
 
 }
+@media (max-width: 4px) {
+    #certificates {
+        display: flex;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 
 
 /* footer */
